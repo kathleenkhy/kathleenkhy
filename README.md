@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>Things I code with</h3>
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-800000?style=flat-square&logo=ruby&logoColor=white" />
-
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
   
 </p>
